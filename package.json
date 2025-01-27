@@ -1,10 +1,10 @@
 {
-  "name": "derpify",
+  "name": "derpify.js",
   "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "type": "module",
-  "description": "'Derpifies strings by randomly changing upper- and lowercase.",
+  "description": "'Derpifies' strings by randomly changing upper- and lowercase.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
