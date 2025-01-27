@@ -1,6 +1,6 @@
 {
   "name": "derpify",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "type": "module",
@@ -17,7 +17,7 @@
     "derp",
     "conversion"
   ],
-  "author": "Chris Heilmann",
+  "author": "codepo8",
   "bugs": {
     "url": "https://github.com/codepo8/derpify/issues"
   },
