@@ -1,5 +1,7 @@
 # derpify
 
+![Derpify.js logo showing the Spongebob clucking like a chicken meme](derpifyjs.png)
+
 This is a package that "derpifies" strings by randomly changing upper- and lowercase.
 
 For example:
