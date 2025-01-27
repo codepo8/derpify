@@ -1,0 +1,36 @@
+body {
+    padding: 1em;
+    background: powderblue;
+    color: darkmagenta;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+h1 {
+    font-size: 6vw;
+    color: firebrick;
+}
+input {
+    font-size: 4vw;
+    font-family: inherit;
+    color: grey;
+    padding: 5px;
+    border: 2px dashed slateblue;
+}
+#derp {
+    transition: 100ms;
+    font-size: 5vw;
+    margin: 1em;
+    width: 90%;
+}
+#derp button {
+    font-size: 4vw;
+    font-family: inherit;
+    padding: 5px;
+    background: transparent;
+    border: none;
+}
+svg {
+    width: 1em;
+    height: 1em;
+    stroke: black;
+}

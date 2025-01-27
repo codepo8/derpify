@@ -1,0 +1,25 @@
+{
+  "name": "derpify",
+  "version": "0.2.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "description": "'Derpifies strings by randomly changing upper- and lowercase.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codepo8/derpify.git"
+  },
+  "keywords": [
+    "string",
+    "derp",
+    "conversion"
+  ],
+  "author": "Chris Heilmann",
+  "bugs": {
+    "url": "https://github.com/codepo8/derpify/issues"
+  },
+  "homepage": "https://github.com/codepo8/derpify#readme"
+}
