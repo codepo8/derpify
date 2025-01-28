@@ -18,7 +18,7 @@ Will return as one example (as it is random):
 
 You call the functionality with the `derpify` method, which takes two parameters:
 
-* `str` - the string to split (mandatory).
+* `str` - the string to derpify (mandatory).
 * `randomness` - an float between 0 and 1, preset to 0.3 (optional).
 
 You can try derpify's outcome using the [demo page](https://codepo8.github.io/derpify/demo.html) or `demo.js` on the commmand line.
